@@ -1,6 +1,6 @@
 import numpy as np
 import torch
-
+#hi
 from .operators import _laplacian
 from .utils import to_tensor
 
